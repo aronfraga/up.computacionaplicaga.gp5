@@ -4,3 +4,5 @@
   - ARON FRAGA 
   - ELÍAS PEINADO 
   - VAL MARCOS VALDES
+## Diagrama
+<a href="./Diagrama.drawio.pdf" target="_blank">Diagrama</a>
